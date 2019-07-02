@@ -11,3 +11,9 @@ Used technologies:
 - OOP on frontend & backend
 
 Application is Ajax-based so no need additional redirections.Organizer is not fully finished at this point.
+
+
+# how to run
+
+- create database "organizer" and import there .sql file from code/db/ folder
+- put repo code to your local HTTP server, f.e. apache localhost  and run "localhost/organizer"
